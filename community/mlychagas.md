@@ -1,5 +1,5 @@
 <h1 align="center">OI 👋 , Meu nome é Emily</h1>
-<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas do Instituto Federal, estou em busca de descobrir qual área que mais se adequa às minhas capacidades.</h3><
+<h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas do Instituto Federal, estou em busca de descobrir qual área que mais se adequa às minhas capacidades.</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

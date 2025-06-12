@@ -1,7 +1,7 @@
 <h1 align="center">OI 👋 , Meu nome é Emily</h1>
 <h3 align="center">Sou estudante de Análise e Desenvolvimento de Sistemas do Instituto Federal, estou em busca de descobrir qual área que mais se adequa às minhas capacidades.</h3><
 
-h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/emily-pereira-chagas-172085306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emily-pereira-chagas-172085306" height="30" width="40" /></a>
 </p>
